@@ -13,6 +13,7 @@ body {
   margin: 0 auto;
   display: flex;
 }
+
 .left-section {
   width: 550px;
   text-align: center;
@@ -22,6 +23,11 @@ body {
   justify-content: center;
   color: white;
   clip-path: polygon(0 10%, 100% 0, 100% 100%, 0 90%);
+}
+.fa-github {
+  padding-top: 1rem;
+  font-size: 30px;
+  color: white;
 }
 .right-section {
   width: 600px;
